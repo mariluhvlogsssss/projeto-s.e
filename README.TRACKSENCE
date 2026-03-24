@@ -1,4 +1,4 @@
-# projeto sistemas embarcados: Micro-Processador captador de movimento (c++)
+# Projeto sistemas embarcados: Micro-Processador captador de movimento (c++)
 
 Este projeto consiste no desenvolvimento de um sistema de processamento de sinais para detctar um movimento, utilizando a linguagem **c++**. Onde o sistema integra sensores de hardware com lógica de software para indentificar variações em tempo real. 
 
